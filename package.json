@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Miguel Angel Velasquez Vivas",
+	"description": "Es una buena manera de resumir lo que hace un proyecto",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
