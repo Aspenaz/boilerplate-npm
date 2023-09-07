@@ -4,6 +4,7 @@
 	"description": "Es una buena manera de resumir lo que hace un proyecto",
 	"keywords": ["freecodecamp"],
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
