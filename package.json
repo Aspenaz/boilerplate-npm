@@ -3,6 +3,7 @@
 	"author": "Miguel Angel Velasquez Vivas",
 	"description": "Es una buena manera de resumir lo que hace un proyecto",
 	"keywords": ["freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
